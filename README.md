@@ -8,7 +8,7 @@ tron usdt 波场靓号生成，地址模仿，使用gpu加速
 
 请勿在压缩包里直接运行，解压后打开cmd终端，再运行程序。
 
-## 下载地址 https://github.com/mripzs/tron_gpu/releases/download/gpu/tron-gpu.zip
+## 下载地址 https://github.com/Kingsz530/tron_pro/releases/download/gpu/tron-gpu.zip
 
 ![](1.png)
 
